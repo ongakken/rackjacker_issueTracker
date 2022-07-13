@@ -1,0 +1,1 @@
+If you own a copy of `Terminal Insanity: RackJacker` on Steam and would like to report an issue that you've experienced, you are free to do so in this repository. Otherwise, please do not create any issues or open pull requests as this will result in a global permanent ban.
