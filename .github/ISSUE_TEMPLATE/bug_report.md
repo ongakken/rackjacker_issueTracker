@@ -8,7 +8,7 @@ assignees: simonSlamka
 ---
 
 **Describe the bug**
-A clear and concise description of what the bug is.
+_A clear and concise description of what the bug is._
 
 **To Reproduce**
 Steps to reproduce the behavior:
@@ -18,10 +18,10 @@ Steps to reproduce the behavior:
 4. See error
 
 **Expected behavior**
-A clear and concise description of what you expected to happen.
+_A clear and concise description of what you expected to happen._
 
 **Screenshots**
-If applicable, add screenshots to help explain your problem.
+_If applicable, add screenshots to help explain your problem._
 
  - OS: [e.g. win10-64]
  - Version [e.g. 22]
