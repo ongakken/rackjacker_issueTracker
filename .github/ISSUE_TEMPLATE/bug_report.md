@@ -1,7 +1,7 @@
 ---
 name: Bug report
 about: Submit a bug report to help us track that bastard down
-title: "[bug]"
+title: "[bug] "
 labels: bug
 assignees: simonSlamka
 
@@ -23,8 +23,7 @@ A clear and concise description of what you expected to happen.
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
 
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
+ - OS: [e.g. win10-64]
  - Version [e.g. 22]
 
 **Additional context**
