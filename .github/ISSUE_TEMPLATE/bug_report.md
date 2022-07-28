@@ -2,7 +2,7 @@
 name: Bug report
 about: Submit a bug report to help us track that bastard down
 title: "[bug] "
-labels: bug
+labels: bug, unconfirmed
 assignees: simonSlamka
 
 ---
