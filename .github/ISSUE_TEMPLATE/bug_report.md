@@ -24,7 +24,8 @@ _A clear and concise description of what you expected to happen._
 _If applicable, add screenshots to help explain your problem._
 
  - OS: [e.g. win10-64]
- - Version [e.g. 22]
+ - Game version [e.g. 22]
+_You can see the game's version on Steam in rich presence, on Discord in your activity status, and in the main menu on your upper right._
 
 **Additional context**
 Add any other context about the problem here.
